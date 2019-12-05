@@ -6,6 +6,5 @@ generator.py
 *~
 Thumbs.db
 link to *
-/script.audio.profiles
-!/script.audio.profiles/
+script.audio.profiles
 !zip/script.audio.profiles/
