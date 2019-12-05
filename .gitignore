@@ -1,0 +1,9 @@
+generator.py
+# Test caches
+*.pyc
+*.pyo
+*.xcf
+*~
+Thumbs.db
+script.audio.profiles/
+!zip/script.audio.profiles/
