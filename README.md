@@ -14,9 +14,7 @@ The plug originally came from here: https://github.com/Regss/script.audio.profil
 <br/>A friend corrected the code for me, I throw it to share with others.
 
 <h2>Download:</h2>
-The repository is currently being tested. Download using "Download" and install using a zip file. 
-</br>
-<b>I plan to create a separate repository only for this add-on. </b>
+<a href="./repository.notoco.zip">Repository notoco</a>
 <h2>Short Instruction:</h2>
 <ol>
   <li>Configure Add-on to set names for profiles.</li>
