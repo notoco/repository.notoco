@@ -5,5 +5,5 @@ generator.py
 *.xcf
 *~
 Thumbs.db
-script.audio.profiles/
+**/script.audio.profiles/
 !zip/script.audio.profiles/
