@@ -6,7 +6,7 @@ Repository for script.audio.profiles - easy switch between different audio setti
 
 Save audio settings to profiles and easy switch between them using keymap or pop-up menu:
 
-<pre>RunScript(script.audio.profiles,0) - one keymap to toggle switch between two profiles. </pre>
+<pre>RunScript(script.audio.profiles,popup) - one keymap to toggle switch between two profiles. </pre>
 <pre>RunScript(script.audio.profiles,x) - where x is number of profile</pre>
 
 <h2>Information</h2>
@@ -57,7 +57,7 @@ Edit or create file keyboard.xml in userdata/keymaps/ and past this code:
 &lt;keymap>
   &lt;global>
     &lt;keyboard>
-      &lt;t>RunScript(script.audio.profiles,0)&lt;/t>
+      &lt;t>RunScript(script.audio.profiles,popup)&lt;/t>
     &lt;/keyboard>
   &lt;/global>
 &lt;/keymap>
